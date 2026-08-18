@@ -1,0 +1,74 @@
+{
+  "name": "NBA BOMBS",
+  "outro_tag": "LAKERS STORIES • NBA BOMBS",
+  "editorial": "documentary",
+  "clip_offset": 17,
+  "team": "Los Angeles Lakers",
+  "nickname": "Lakers",
+  "league": "NBA",
+  "sport": "basketball",
+  "venue": "Crypto.com Arena",
+  "sources": "ESPN, NBA.com, Lakers.com, Silver Screen and Roll, The Athletic, Los Angeles Times, Lakers Daily",
+  "hashtags": "#Lakers #NBA #LakeShow #LosAngelesLakers",
+  "roster": [
+    "Luka Doncic",
+    "Austin Reaves",
+    "Quentin Grimes",
+    "Walker Kessler",
+    "Sandro Mamukelashvili",
+    "Collin Sexton",
+    "Jake LaRavia",
+    "Jarred Vanderbilt",
+    "Jaden Hardy",
+    "Dalton Knecht",
+    "Bronny James",
+    "Adou Thiero",
+    "Cameron Carr",
+    "Rui Hachimura",
+    "Gabe Vincent",
+    "Maxi Kleber",
+    "Marcus Smart",
+    "Deandre Ayton",
+    "LeBron James",
+    "Anthony Davis",
+    "J.J. Redick",
+    "Rob Pelinka",
+    "Jeanie Buss",
+    "Magic Johnson",
+    "Kobe Bryant",
+    "Shaquille O'Neal",
+    "Jerry West",
+    "Kareem Abdul-Jabbar",
+    "Phil Jackson",
+    "Pat Riley"
+  ],
+  "tts_engine": "eleven",
+  "palette": {
+    "primary": [
+      253,
+      185,
+      39
+    ],
+    "secondary": [
+      85,
+      37,
+      130
+    ],
+    "ink": [
+      16,
+      8,
+      30
+    ]
+  },
+  "hook_cut": 2.5,
+  "body_cut": 6.5,
+  "photo_zoom": 0.05,
+  "overlay_kinds": [
+    "lower3",
+    "speech"
+  ],
+  "overlay_every_sec": 45,
+  "bounce": false,
+  "thumb_engine": "none",
+  "eleven_voice_id": "S9UjcNYIwfBOtZiDnIQT"
+}
